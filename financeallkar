@@ -1,0 +1,15 @@
+[
+{ "update" : "off",
+"banner1_open" : "open",
+"banner2_open" : "open",
+ "banner1" : "ca-app-pub-3940256099942544/6300978111",
+"banner2" : "ca-app-pub-3940256099942544/6300978111",
+"inter" : "ca-app-pub-3940256099942544/1033173712",
+ "native" : "ca-app-pub-8108241881323049/6549721589",
+"applink" : "https://play.google.com/store/apps/details?id=financialtips.mm",
+"mail" : "mailto:foundinemmdev.mme@gmail.com",
+ "policy" : "https://financepure.blogspot.com/p/privacy-policy.html",
+"blog_id" : "4758357982517877963",
+"blog_key" : "AIzaSyC-Ws6JIk2LQ4OFv3s71x5Hc7OiFUqvFZc"
+}
+]
